@@ -10,6 +10,7 @@ git cm -m 'rebuild'
 git push origin master
 
 cd ..
+git checkout dev
 git add public
 git cm -am 'rebuild'
 git push origin dev
