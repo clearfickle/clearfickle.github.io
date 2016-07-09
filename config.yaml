@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "https://clearfickle.github.io"
+title: "Uhm, I don't know."
+canonifyurls: true
+theme: "cocoa"
+...
