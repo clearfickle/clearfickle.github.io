@@ -12,7 +12,7 @@ params:
   Subtitle: "Don't panic"
   # GithubID: "Your Github ID"
   # TwitterID: "Your Twitter ID"
-  # AnalyticsID: "Your Google Analytics tracking code"
+  AnalyticsID: "UA-56163919-3"
   # DisqusShortname: "Your Disqus shortname"
   Summary: false  # takes true or false
   Content: false  # takes true or false
