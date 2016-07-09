@@ -1,0 +1,6 @@
+<div class="footer">
+  {{ if isset .Site.Params "FooterMsg" }}
+  <p>{{ .Site.Params.FooterMsg | safeHTML }}</p>
+  {{else}}
+  {{end}}
+</div>

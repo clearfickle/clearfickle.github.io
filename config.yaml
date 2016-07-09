@@ -7,5 +7,15 @@ indexes:
 baseurl: "https://clearfickle.github.io"
 title: "Uhm, I don't know."
 canonifyurls: true
-theme: "cocoa"
+theme: "slim"
+params:
+  Subtitle: "Don't panic"
+  # GithubID: "Your Github ID"
+  # TwitterID: "Your Twitter ID"
+  # AnalyticsID: "Your Google Analytics tracking code"
+  # DisqusShortname: "Your Disqus shortname"
+  Summary: false  # takes true or false
+  Content: false  # takes true or false
+  FooterMsg: "Ehem &copy; 2016"
+menu: [ "main" ]
 ...
